@@ -19,7 +19,7 @@ Packt Publishing online courses [Learning Haskell Programming](https://www.packt
 
 [*Haskell Programming From First Principles*](https://haskellbook.com/) by [Christoph Allen](https://bitemyapp.com/) and [Julie Moronuki](https://argumatronic.com/).
 
-This is currently the main book which Haskell neophytes learn from. Groups form their own study circles, such as organised by the [Berlin Functional Programming Group](https://twitter.com/berlinfpgroup?lang=en), and readers use the IRC channels #haskell and #haskell-beginners
+At nearly 2k pages, this is currently the main book which Haskell neophytes learn from. Groups form their own study circles, such as organised by the [Berlin Functional Programming Group](https://twitter.com/berlinfpgroup?lang=en), and readers use the IRC channels #haskell and #haskell-beginners
 
 ![haskell-book-cover-825x450.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1613483161438/6gvF8y0XL.jpeg)
 ***
