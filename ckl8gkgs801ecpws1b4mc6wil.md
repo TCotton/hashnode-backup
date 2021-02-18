@@ -31,4 +31,6 @@ At nearly 2k pages, this is currently the main book which Haskell neophytes lear
 
 As well as being the author of *Programming in Haskell*, Graham Hutton is a Professor of Computer Science at the University of Nottingham. He leads the undergraduate Haskell module. During the pandemic, the university switched to online learning and [Graham uploaded his pre-recorded tutorials to YouTube](https://www.youtube.com/watch?v=rIprO6zoujM).
 
+For an IDE, use [Visual Studio Code](https://code.visualstudio.com/) and its Haskell plugins. You will also need to  [download and install](https://www.haskell.org/platform/)  the Glasgow Haskell Compiler, Cabal build system and the Stack tool. An alternative to is to use the browser IDE, [Repl](https://repl.it/). An advantage of using Repl is it will allow you to quickly spin your Haskell code into a server environment (apparently, I haven't tried this yet).
+
 Please leave any other recommendations in the comments.
